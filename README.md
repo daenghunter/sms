@@ -1,5 +1,5 @@
 # SPAM SMS Unlimited
-![image](https://github.com/Xractz/SMS/blob/master/spam.png)
+![image](https://github.com/daenghunter/SMS/blob/master/spam.png)
 SPAM SMS menggunakan api web INDIHOME dengan menggunakan bahasa pemrograman python
 
 ## Cara Install Termux
@@ -23,7 +23,7 @@ $cd sms
 $python spam.py
 ```
 
-Copyright © 2020, Xractz - IndoSec
+Copyright © 2020, Daeng Hunter Group
 
 
 
